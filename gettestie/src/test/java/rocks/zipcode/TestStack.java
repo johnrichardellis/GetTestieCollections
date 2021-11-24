@@ -1,7 +1,11 @@
 package rocks.zipcode;
 
+import org.junit.Assert;
+import org.junit.Test;
+
 import static org.junit.Assert.*;
-import java.util.Stack;
+
+import java.util.*;
 
 public class TestStack {
 
@@ -22,3 +26,91 @@ public class TestStack {
 
     // Make a bigger test exercising more Stack methods.....
 }
+
+
+//public class IteratorTest {
+//
+//    @Test
+//    public void test() {
+//        //given
+//
+//
+//        // when
+//
+//
+//        // then
+//
+//
+//    }
+//
+//    @Test
+//    public void test() {
+//        //given
+//
+//
+//        // when
+//
+//
+//        // then
+//
+//
+//    }
+//}
+//
+//public class PriorityQueueTest {
+//
+//    @Test
+//    public void test() {
+//        //given
+//
+//
+//        // when
+//
+//
+//        // then
+//
+//
+//    }
+//
+//    @Test
+//    public void test() {
+//        //given
+//
+//
+//        // when
+//
+//
+//        // then
+//
+//
+//    }
+//
+//    public class ComparableTest {
+//
+//        @Test
+//        public void test() {
+//            //given
+//
+//
+//            // when
+//
+//
+//            // then
+//
+//
+//        }
+//
+//        @Test
+//        public void test() {
+//            //given
+//
+//
+//            // when
+//
+//
+//            // then
+//
+//
+//        }
+//    }
+//}
